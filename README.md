@@ -1,2 +1,2 @@
 # react-exercise--useState-hook
-Created with CodeSandbox
+A small exercise in using useState in ReactJS
